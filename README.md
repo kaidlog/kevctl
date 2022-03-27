@@ -1,15 +1,14 @@
 # kevctl
 
 # Installing
-Using Cobra is easy. First, use `go get` to install the latest version
+Using kevctl is easy. First, use `git clone` to install the latest version
 of the library.     
 
 ```
 git clone git@github.com:kaidlog/kevctl.git
 ```
 
-Next, include Cobra in your application:
-Compile `main.go`
+Next, compile `main.go` in your application
 ```go
 go build main.go
 ```
